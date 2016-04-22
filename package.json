@@ -4,7 +4,7 @@
   "description": "Qiniu React Native SDK ,A pure javascript implements.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Pass\""
   },
   "keywords": [
     "React",
