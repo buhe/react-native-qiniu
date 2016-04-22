@@ -43,7 +43,7 @@ fetch(url).then((response) => {
       console.warn(error);
     });
 
-//resource operation
+//resource operation   
 //stat info
 var self = this;
 qiniu.rs.Client.stat(<BUCKET>, <KEY)
