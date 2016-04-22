@@ -1,4 +1,4 @@
-# React Native Qiniu SDK
+# React Native Qiniu SDK    [![Build Status](https://travis-ci.org/buhe/react-native-qiniu.png)](https://travis-ci.org/buhe/react-native-qiniu)
 
 纯JavaScript实现的Qiniu SDK,
 
